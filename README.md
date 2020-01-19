@@ -1,1 +1,1 @@
-# images
+# Leaf images dataset
